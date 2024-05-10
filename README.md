@@ -4,7 +4,9 @@ Data:
 
 ![image](https://github.com/bibasrairockz/efficientnetB0_music_genre_classification/assets/130794180/5a0ded20-0e82-4622-b2b9-a30b12f1de37)  
 Training:  
-![image](https://github.com/bibasrairockz/efficientnetB0_music_genre_classification/assets/130794180/116dc69c-8d99-4a86-b9d1-5b26e590042e)
+![image](https://github.com/bibasrairockz/efficientnetB0_music_genre_classification/assets/130794180/116dc69c-8d99-4a86-b9d1-5b26e590042e)  
+![image](https://github.com/bibasrairockz/efficientnetB0_music_genre_classification/assets/130794180/28abbdf1-ac3a-43a9-8a6c-5fe30605d5ea)
+
 
 
 
